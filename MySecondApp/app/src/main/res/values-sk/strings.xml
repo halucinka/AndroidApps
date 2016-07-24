@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja druha aplikacia</string>
+    <string name="title">Moja Aplikacia </string>
+    <string name="hello_world">Ahoj svet!</string>
+    <string name="action_settings">Nastavenia</string>
+</resources>
